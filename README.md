@@ -1,4 +1,6 @@
-# DerNotenIgel
+# DerNotenIgel (At the development stage)
+h7 This project is my original concept, created to address the needs of musicians everywhere, and I am excited to bring this innovative tool to the market.
+
 
 DerNotenIgel is a groundbreaking musical application designed to revolutionize the way musicians interact with their compositions. This innovative tool transforms user-generated sounds and melodies into precise musical scores, adhering to authentic musical notation standards.
 
