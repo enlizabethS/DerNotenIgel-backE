@@ -96,5 +96,3 @@ public class AudioToSheetMusicService {
         return noteNames[noteIndex] + octave;
     }
 }
-
-
